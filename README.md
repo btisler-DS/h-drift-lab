@@ -45,3 +45,9 @@ Outputs are stored as `.parquet` tables in `data/processed/` and contain **no co
 
 - Code in this repository is released under the MIT License (see `LICENSE`).
 - External datasets are governed by their original licenses; see upstream dataset documentation.
+
+## Documentation
+
+For detailed instructions on how to set up and use the H-Drift Lab, see:
+
+- [USER_GUIDE.md](USER_GUIDE.md)
