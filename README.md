@@ -51,3 +51,15 @@ Outputs are stored as `.parquet` tables in `data/processed/` and contain **no co
 For detailed instructions on how to set up and use the H-Drift Lab, see:
 
 - [USER_GUIDE.md](USER_GUIDE.md)
+## Theoretical Foundation
+
+This repository applies the measurement framework introduced in:
+
+> Tisler, B. (2025). *A Geometric Instrument for Measuring Interrogative 
+> Entropy in Language Systems* (Version v1). Zenodo. 
+> https://doi.org/10.5281/zenodo.17811309
+
+That paper establishes Cube Geometry and Interrogative Entropy (Hᵢ) as 
+deterministic measurements independent of language model behavior. This 
+repository extends that framework to measure how RLHF training introduces 
+humanistic drift (H-Drift) in AI responses.
