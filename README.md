@@ -43,7 +43,7 @@ Outputs are stored as `.parquet` tables in `data/processed/` and contain **no co
 
 ## License
 
-- Code in this repository is released under the MIT License (see `LICENSE`).
+- Code in this repository is released under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License (see `LICENSE.txt`).
 - External datasets are governed by their original licenses; see upstream dataset documentation.
 
 ## New Dataset Integrations (Dec 2025 Update)
